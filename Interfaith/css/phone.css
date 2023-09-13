@@ -1,0 +1,176 @@
+
+.head1{
+    font-size: 50px;
+    width: 100%;
+}
+.head2{
+    font-size: 15px;
+    bottom: 65px;
+    width: 100%;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    /* background: chocolate; */
+}
+
+
+.rel1 img, .sec3 img{
+    width: 80%;
+    height: auto;
+}
+/* 
+.nav-list li a {
+    font-size: 9px;
+    text-align: center;
+    padding: 0px 1px;
+} */
+
+#img1, #img2, #img3, #img4 {
+    width: 60%;
+    height: auto;
+    /* display: none; */
+    padding-bottom: 15px;
+} 
+
+#img2d{
+    height: 300px;
+    width: auto;
+}
+
+.card{
+    width: 70%;
+}
+
+.sechalf, .secondhalf{
+    width: 80%;
+}
+/* .nav-list{
+    width: 80%;
+}
+.navbar{
+    width: 100%;
+} */
+
+.heading{
+    width: 100%;
+}
+
+.bug{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rel1{
+    width: 100%;
+}
+
+#box{
+    width: 100%;
+    align-items: flex-start;
+}
+
+
+#bug2{
+    width: 100%;
+    height: auto;
+}
+
+#img{
+    height: auto;
+}
+
+#card-1b{
+    height: auto;
+}
+
+.sec3{
+    align-items: center;
+    justify-content: center;
+}
+
+.head1b{
+    font-size: 40px;
+}
+
+.typehead1, .typehead, .typehead2{
+    font-size: 25px;
+}
+
+.type p{
+    font-size: 15px
+}
+
+.rel1b img , .rel2b img, .rel2c img{
+    width: 75%;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.rel1b, .rel2b, .rel2c{
+    flex-direction: column;
+    height: auto;
+}
+
+.type{
+    height: auto;
+}
+
+.scrollTop{
+    width: 30px;
+    height: 30px;
+    background-size: 20px;
+    right: 20px;
+    /* bottom: 20px; */
+}
+
+.container-c{
+    bottom: 0px;
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.head1c{
+    font-size: 40px;
+}
+.head1d{
+    font-size: 30px;
+}
+
+.typehead, .typehead3{
+    font-size: 25px;
+}
+
+.nav-list li a:hover{
+    background: transparent;
+}
+
+.re-order .row {
+    display: flex;
+    display: -ms-flex;
+    flex-direction: column;
+  }
+  .re-order .row .first {
+    order: 2;
+  }
+  .re-order .row .second {
+    order: 1;
+  }
+
+  .sec1-b{
+      background: rgba(0, 0, 0, 0.6) url("../images/Muslim-600x624.jpeg");
+      background-blend-mode:darken;
+      background-repeat: no-repeat;
+  }
+  .sec1-c{
+      background: rgba(0, 0, 0, 0.6) url("../images/Shankarji-600x624.jpeg");
+      background-blend-mode:darken;
+      background-repeat: no-repeat;
+  }
+  .sec1-d{
+      background: rgba(0, 0, 0, 0.6) url("../images/buddha\ sharanam-600x624.jpeg");
+      background-blend-mode:darken;
+      background-repeat: no-repeat;
+  }
